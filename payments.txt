@@ -1,1 +1,2 @@
 users have to pay $10 for subscription
+subscription should be auto renewed every month
