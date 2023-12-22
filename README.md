@@ -1,1 +1,1 @@
-# marc-lorenzo-clothing
+users can watch movies with thier details
